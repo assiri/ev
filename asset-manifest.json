@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/ev/static/css/main.b814ac70.css",
-    "main.js": "/ev/static/js/main.ac9d4f81.js",
+    "main.css": "/ev/static/css/main.46e1e626.css",
+    "main.js": "/ev/static/js/main.36b7cee6.js",
     "static/media/london.jpg": "/ev/static/media/london.a36102586980ebf572a7.jpg",
     "static/media/starTrekLogo.png": "/ev/static/media/starTrekLogo.538b98b2a251df263387.png",
     "static/media/haunting.png": "/ev/static/media/haunting.39e2501d11f7dbef3e79.png",
     "static/media/spidermanLogo.png": "/ev/static/media/spidermanLogo.58439748b68a41215449.png",
     "static/media/enola.jpg": "/ev/static/media/enola.124c9facef7e86d974d0.jpg",
+    "static/media/bootstrap-icons.woff?": "/ev/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
     "static/media/spiderman.jpg": "/ev/static/media/spiderman.c40f4f5874cec55ba485.jpg",
     "static/media/enolaLogo.png": "/ev/static/media/enolaLogo.16e3208e6402312e1ca8.png",
     "static/media/chef.jpg": "/ev/static/media/chef.7f2ab9cc0463c9aa1865.jpg",
     "static/media/starTrek.jpg": "/ev/static/media/starTrek.e8c8dd6d03cb7082db76.jpg",
+    "static/media/bootstrap-icons.woff2?": "/ev/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
     "static/media/familyGuy.jpg": "/ev/static/media/familyGuy.a58d33c144b7d9802a0a.jpg",
     "static/media/dog.jpg": "/ev/static/media/dog.1e459afd680fbb550e83.jpg",
     "static/media/instagram.png": "/ev/static/media/instagram.26fb5fe001829f10aa93.png",
@@ -24,11 +26,11 @@
     "static/media/twitter.png": "/ev/static/media/twitter.9ca30ee29dca1e63e013.png",
     "static/media/message.png": "/ev/static/media/message.e6066ea77c0b740047fb.png",
     "index.html": "/ev/index.html",
-    "main.b814ac70.css.map": "/ev/static/css/main.b814ac70.css.map",
-    "main.ac9d4f81.js.map": "/ev/static/js/main.ac9d4f81.js.map"
+    "main.46e1e626.css.map": "/ev/static/css/main.46e1e626.css.map",
+    "main.36b7cee6.js.map": "/ev/static/js/main.36b7cee6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b814ac70.css",
-    "static/js/main.ac9d4f81.js"
+    "static/css/main.46e1e626.css",
+    "static/js/main.36b7cee6.js"
   ]
 }
